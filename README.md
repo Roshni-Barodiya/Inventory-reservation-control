@@ -41,3 +41,8 @@ Production-ready inventory reservation system built with Next.js 15, TypeScript,
 - Use MongoDB Atlas or another replica-set-backed MongoDB deployment so transactions are supported.
 - Set `MONGODB_URI` in the hosting environment.
 - Run the seed script or preload your own inventory collection before going live.
+
+## Student Detailed
+- Name : Roshni Barodiya
+- Reg.No: 22MEI10067
+- Email: roshnibarodiya1@gmail.com
